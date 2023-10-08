@@ -1,9 +1,10 @@
 import './App.css';
+import DemoFormik from './Components/DemoFormik/DemoFormik';
 
 function App() {
   return (
     <>
-      <div className="bg-red-500"></div>
+      <DemoFormik />
     </>
   );
 }
